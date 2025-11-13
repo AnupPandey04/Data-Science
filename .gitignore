@@ -1,0 +1,5 @@
+ # Ignore Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Lab Virtual Documents
+.virtual_documents/
